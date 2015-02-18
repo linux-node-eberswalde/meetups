@@ -1,6 +1,11 @@
-Ort: Studentenclub Eberswalde
-Besucher: ca 25
-Start: 18:30
+# Meta
+* Ort: Studentenclub Eberswalde
+* Besucher: ca 25
+* Start: 18:30
+
+# Themen
+* wollen wir uns weiterhin am 3. Mittwoch des Monats im Studiclub treffen --> ja 
+* Vorschlag: wöchentlich Freitags Six to Zero im Brandenburgischen Viertel
 
 # Talk youtube-downloader
 - [youttube downloader](https://github.com/linux-node-eberswalde/youtube-downloader)
