@@ -18,7 +18,7 @@ Regular Expressions
 * [Regulärer Ausdruck Wikipedia](http://de.wikipedia.org/wiki/Regul%C3%A4rer_Ausdruck)
 * [Cheat Sheet](http://www.cheatography.com/davechild/cheat-sheets/regular-expressions/)
 ```
-.: 
+.: beliebiges Zeichen 
 ^: negiert die Gruppe
   - zb ^\" --> sucht nach dem ersten nicht Anführungszeichen
 +: 1 oder mehr
