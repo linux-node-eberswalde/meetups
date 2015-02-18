@@ -11,7 +11,7 @@ Kommandos
 1. cat
 2. echo
 3. grep - 
-4. [sed](http://de.wikipedia.org/wiki/Sed_%28Unix%29) [man](http://unixhelp.ed.ac.uk/CGI/man-cgi?sed) - streamline editor (nutzt Regular Expressions)
+4. [sed](http://unixhelp.ed.ac.uk/CGI/man-cgi?sed) - streamline editor (nutzt Regular Expressions)
 
 Regular Expressions
 ====================
