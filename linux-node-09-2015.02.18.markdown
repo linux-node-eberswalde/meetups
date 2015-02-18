@@ -11,7 +11,7 @@ Regular Expressions
 ```
 +: 1 oder mehr
 ?: da oder nicht da bezogen auf das was davor steht
-*: beliebig viele Zeichen
+*: beliebig viele Zeichen von den davorstehenden Zeichen
 []: Zeichengruppe
 ```
 
