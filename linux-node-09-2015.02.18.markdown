@@ -14,8 +14,9 @@
 ### Kommandos
 1. cat
 2. echo
-3. grep - 
+3. grep
 4. [sed](http://unixhelp.ed.ac.uk/CGI/man-cgi?sed) - streamline editor (nutzt Regular Expressions)
+5. touch - Datei erstellen
 
 ### Regular Expressions
 * [Regulärer Ausdruck Wikipedia](http://de.wikipedia.org/wiki/Regul%C3%A4rer_Ausdruck)
