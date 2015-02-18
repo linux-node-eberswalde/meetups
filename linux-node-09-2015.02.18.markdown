@@ -1,22 +1,23 @@
-# Meta
+# linux_node_eberswalde #09
+## Meta
 * Ort: Studentenclub Eberswalde
 * Besucher: ca 25
 * Start: 18:30
 
-# Themen
+## Themen
 * wollen wir uns weiterhin am 3. Mittwoch des Monats im Studiclub treffen --> ja 
 * Vorschlag: wöchentlich Freitags Six to Zero im Brandenburgischen Viertel
 
-# Talk youtube-downloader
+## Talk youtube-downloader
 - [youttube downloader](https://github.com/linux-node-eberswalde/youtube-downloader)
 
-## Kommandos
+### Kommandos
 1. cat
 2. echo
 3. grep - 
 4. [sed](http://unixhelp.ed.ac.uk/CGI/man-cgi?sed) - streamline editor (nutzt Regular Expressions)
 
-## Regular Expressions
+### Regular Expressions
 * [Regulärer Ausdruck Wikipedia](http://de.wikipedia.org/wiki/Regul%C3%A4rer_Ausdruck)
 * [Cheat Sheet](http://www.cheatography.com/davechild/cheat-sheets/regular-expressions/)
 ```
