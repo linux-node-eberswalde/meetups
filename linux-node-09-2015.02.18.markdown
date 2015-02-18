@@ -1,5 +1,5 @@
 Ort: Studentenclub Eberswalde
 
-Talk Torsten
+Talk youtube-downloader
 ====================
 - [youttube downloader](https://github.com/linux-node-eberswalde/youtube-downloader)
