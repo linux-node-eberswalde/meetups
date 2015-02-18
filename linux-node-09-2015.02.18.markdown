@@ -23,9 +23,9 @@
 ```
 .: beliebiges Zeichen 
 ^: Negation 
-+: 1 oder mehr
-?: da oder nicht da bezogen auf das was davor steht
-*: beliebig viele Zeichen von den davorstehenden Zeichen
++: 1 oder mehr Zeichen
+?: 0 oder 1 Zeichen
+*: beliebig viele Zeichen
 []: Zeichengruppe
-(): spezielle Syntax, die sagen, dass dieser Teil der Zeichenkette gruppiert werden soll 
+(): spezielle Syntax, zur Gruppierung von Zeichen
 ```
