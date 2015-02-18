@@ -1,4 +1,6 @@
 Ort: Studentenclub Eberswalde
+Besucher: ca 25
+Start: 18:30
 
 Talk youtube-downloader
 ====================
@@ -10,4 +12,13 @@ Regular Expressions
 +: 1 oder mehr
 ?: da oder nicht da bezogen auf das was davor steht
 *: beliebig viele Zeichen
+[]: Zeichengruppe
+```
+
+Kommandos
+====================
+```
+echo
+sed - streamline editor
+grep
 ```
