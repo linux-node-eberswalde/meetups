@@ -31,3 +31,9 @@
 []: Zeichengruppe
 (): spezielle Syntax, zur Gruppierung von Zeichen
 ```
+
+## Brian
+* aus dem Hebewerk CNC Node
+* sucht Hilfe für Raspberry oder Arduino Projekt (Sensoren System)
+* Verbindung mit Fablab aus Amerika und Gruppe aus Barcelona
+* Kontakt: brian@crottyarts.com
